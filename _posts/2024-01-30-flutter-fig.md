@@ -1,5 +1,4 @@
 ---
-layout: post_markdown
 title: gRPC authentication and Flutter
 description: gRPC authentication and Flutter
 tags:
