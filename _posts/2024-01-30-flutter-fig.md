@@ -1,3 +1,14 @@
+---
+layout: post_markdown
+title: gRPC authentication and Flutter
+description: gRPC authentication and Flutter
+tags:
+- Flutter
+- Dart
+- gRPC
+
+---
+
 # gRPC authentication and Flutter
 
 I have always been a fan of the "contract first" approach that gRPC and protobuf provides. There 
